@@ -35,12 +35,6 @@ src/
 └── main.ts          # Application entry
 ```
 
-## API Documentation
-
-Access the API documentation at:
-- Swagger UI: `http://localhost:3000/api`
-- OpenAPI JSON: `http://localhost:3000/api-json`
-
 ## Development
 
 ```bash
